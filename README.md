@@ -9,3 +9,5 @@ imitation of social network portal with some features of twitter
 - Searching a posts
 - showing user's posts after clicking on user's email
 * everything is stored in MySQL data base
+
+[Launch demo](http://79.170.40.40/meerfi.com/12-twitter/)
